@@ -17,10 +17,10 @@ if(favorite_fruits.includes('ORANGE')){
 console.log("MY FAVORITE FRUIT IS ORANGE")};
 
 // simple calculator//
-const firstnumber = 8;
-const secondnumber = 5;
-console.log("the answer of this sum is =" , first_number+second_number);
-console.log("the answer of this sum is =" , first_number-second_number);
-console.log("the answer of this sum is =" , first_number*second_number);
-console.log("the answer of this sum is =" , first_number/second_number);
-console.log("the answer of this sum is =" , first_number%second_number);
+//const firstnumber = 8;
+//const secondnumber = 5;
+/////console.log("the answer of this sum is =" , first_number+second_number);
+//console.log("the answer of this sum is =" , first_number-second_number);
+///console.log("the answer of this sum is =" , first_number*second_number);
+//console.log("the answer of this sum is =" , first_number/second_number);
+//console.log("the answer of this sum is =" , first_number%second_number);
